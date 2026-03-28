@@ -1,4 +1,4 @@
-const CACHE = 'instr-gen-v1';
+const CACHE = 'instr-gen-v2';
 const ASSETS = [
   './',
   './index.html',
